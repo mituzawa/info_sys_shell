@@ -13,7 +13,6 @@ void parse_command(char commands[],char *num[]){
     num[i] = NULL;
 }
 
-
 int main(int argc, char *argv[]) { 
     char buf[BUFSIZ];
     char *myargs[3]; 
